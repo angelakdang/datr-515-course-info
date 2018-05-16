@@ -203,7 +203,7 @@ You will get structured guidance and designated time to work throughout the cour
 <a id='slack'></a>
 ## <img src="https://lh3.googleusercontent.com/CzlsZP3xUHeX3HAGdZ2rL9mK6_C-6T1-YWeBeM8nB3ilmfPSBHCFx4-UbQr8MnQms3d9=w300" width="25px"> Slack
 
-We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [X](x).
+We'll use Slack for our class communications platform. Slack is a messaging platform where you can chat with your peers and instructors. We will use Slack to share information about the course, discuss lessons, and submit projects. Our Slack homepage is [Data Science Remote GA](https://datascienceremotega.slack.com/messages/DAP1GH273/). We will be corresponding mainly on the #datr-515 channel.
 
 **Pro Tip**: If you've never used Slack before, check out these resources:
 - [Intro to Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
