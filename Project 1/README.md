@@ -9,9 +9,8 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Starter Code | Required questions and Bonus prompts | [Here](./Project-1-CC.ipynb) |
-| Solution Code | Sample solutions for all required sections | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-1/project-1_solutions.ipynb) |
+| Solution Code | Sample solutions for all required sections | Here |
 
-> Note: Instructors should withhold project solutions until students have submitted their drafts. 
 
 
 ---
