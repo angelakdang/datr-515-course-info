@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Lesson | Two part lesson, outlined below | [Here](Your-Development-Environment.ipynb) |
 | Practice Activity | Jupyter Notebook Practice | [Here](./practice/ipynb_practice1.ipynb) |
-| Practice Solutions | Jupyter Notebook Solutions | [Here] |
+| Practice Solutions | Jupyter Notebook Solutions | Here |
 | Extra Materials | Source Materials Adapted For This Lesson | [Here](./extra-materials/) |
 
 ---
