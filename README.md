@@ -223,8 +223,11 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* Instructor's Office Hours - Day, Time (or by Appointment)
-* Assistant's Office Hours - Day, Time (or by Appointment)
+* Dami's Office Hours - Saturdays, 10AM - 12PM (or by Appointment)
+* MJ's Office Hours - TUesdays and Thursdays, 6:30PM - 7:30PM (or by Appointment)
+* James's Office Hours - Day, Time (or by Appointment)
+
+Please give us a heads up if you plan on attending any of the office hours!
 
 Slack us or post in our #officehours channel to reserve a time-slot!
 
