@@ -97,7 +97,7 @@ FLEX: Review + Project Workshop                 | Unit 4 | Session 19 |
 [Final Project Presentations]                   | Unit 4 | Session 20 | 
 
 [1-1A]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Session%201
-[1-1B]: https://git.generalassemb.ly/data-part-time/your-development-environment
+[1-1B]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Session%202
 [1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
 
 [1-1E]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
