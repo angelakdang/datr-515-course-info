@@ -235,6 +235,6 @@ Slack us or post in our #officehours channel to reserve a time-slot!
 
 Throughout the course, you'll be asked to provide feedback about your experience. This feedback is extremely important, as it helps us provide you with a better learning experience.
 
-[Insert specific VTS/Exit Ticket details here]
+[Click here to access exit ticket](https://goo.gl/forms/gDaAyYaAlf0XHdov2)
 
 ---
