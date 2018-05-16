@@ -155,7 +155,7 @@ You will get structured guidance and designated time to work throughout the cour
     - Part 3: Technical Report
     - Part 4: Presentation
 
-[2-1A]:  https://git.generalassemb.ly/data-part-time/unit-1_project
+[2-1A]:  (./Project 1/Project-1-CC.ipynb)
 [2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
 [2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
 [2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
