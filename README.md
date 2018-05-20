@@ -98,7 +98,7 @@ Final Project Presentations                     | Unit 4 | Session 20 |
 
 [1-1A]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%201
 [1-1B]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%202
-[1-1C]: https://git.generalassemb.ly/data-part-time/python-foundations
+[1-1C]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%203
 
 [1-1E]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
 [1-1F]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
