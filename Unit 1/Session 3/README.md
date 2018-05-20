@@ -10,8 +10,8 @@
 | --- | --- | --- |
 | Lesson | (*Beginner*) Part 1: Data Types | [Part One](./python-dtypes.ipynb) |
 | Lesson | (*Intermediate*) Part 2: Control Flow | [Part Two](./python-controlflow.ipynb)|
-| Practice | Practice: Part 1: Data Types  | [here](./types-lists-dictionaries-review.ipynb)|
-|  | Practice: Part 2: Functions  | [here](./python-functions.ipynb)|
+| Practice | Practice: Part 1: Data Types  | [here](./practice/types-lists-dictionaries-review.ipynb)|
+|  | Practice: Part 2: Functions  | [here](./practice/python-functions.ipynb)|
 |  | (*Intermediate, Bonus*) Practice: IMDB Intro Lab  | [here](./python-movies-lab.ipynb)|
 | Solutions  | Sample Solutions for Blanked Out Lesson Demo | Data Types |
 |   | Sample Solutions: Part 1, Practice | Practice: Data Types |
