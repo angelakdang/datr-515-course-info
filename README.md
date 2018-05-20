@@ -73,8 +73,8 @@ Here is the schedule we will be following for our part time data science course:
 | Lesson  | Unit Number | Session Number | Supplementary Reading |
 | --- | ---  | ---  | --- |
 | [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | |
-| [Your Development Environment][1-1B]            | Unit 1 | Session 2 | Use [Pro Git Book][1-1V] for reference  |
-| [Python Foundations][1-1C]                      | Unit 1 | Session 3 | [A Python Book:][1-1U] Parts 1.2 - 1.7  |
+| [Your Development Environment][1-1B]            | Unit 1 | Session 2 | Use [Pro Git Book][1-1E] for reference  |
+| [Python Foundations][1-1C]                      | Unit 1 | Session 3 | [A Python Book:][1-1F] Parts 1.2 - 1.7  |
 | FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | |
 | --- | ---  | ---  | --- |
 | Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | |
@@ -100,8 +100,8 @@ Here is the schedule we will be following for our part time data science course:
 [1-1B]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%202
 [1-1C]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%203
 
-[1-1E]: https://git.generalassemb.ly/data-part-time/exploratory-data-analysis
-[1-1F]: https://git.generalassemb.ly/data-part-time/experiments-hypothesis-tests
+[1-1E]: https://git-scm.com/book/en/v2 
+[1-1F]: http://www.davekuhlman.org/python_book_01.pdf 
 [1-1G]: https://git.generalassemb.ly/data-part-time/visualizations
 [1-1H]: https://git.generalassemb.ly/data-part-time/statistics-in-python
 
@@ -115,8 +115,6 @@ Here is the schedule we will be following for our part time data science course:
 [1-1Q]: https://git.generalassemb.ly/data-part-time/flex_time-series
 
 [1-1T]: https://git.generalassemb.ly/data-part-time/unit-4_project
-[1-1U]: http://www.davekuhlman.org/python_book_01.pdf
-[1-1V]: https://git-scm.com/book/en/v2
 ---
 
 <a id='projects'></a>
