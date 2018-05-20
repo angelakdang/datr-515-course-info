@@ -70,31 +70,31 @@ General Assembly's Data Science part time materials are organized into **four** 
 
 Here is the schedule we will be following for our part time data science course:
 
-Lesson  | Unit Number | Session Number | Supplementary Reading |
---- | ---  | ---  | |
-[Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | |
-[Your Development Environment][1-1B]            | Unit 1 | Session 2 | Use [Pro Git Book] [1-1V] for reference  |
-[Python Foundations][1-1C]                      | Unit 1 | Session 3 | [A Python Book:][1-1U] Parts 1.2 - 1.7 ] |
-FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | |
---- | ---  | ---  | |
-Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | |
-Experiments & Hypothesis Testing                | Unit 2 | Session 6 | |
-Data Visualization in Python                    | Unit 2 | Session 7 | |
-Statistics in Python                            | Unit 2 | Session 8 | |
-FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | |
---- | ---  | ---  | |
-Linear Regression                               | Unit 3 | Session 10 | |
-Train-Test Split & Bias-Variance                | Unit 3 | Session 11 | |
-KNN / Classification                            | Unit 3 | Session 12 | |
-Logistic Regression                             | Unit 3 | Session 13 | |
-FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | |
---- | ---  | ---  | |
-Working With Data: APIs                         | Unit 4 | Session 15 | |
-Intro to Natural Language Processing            | Unit 4 | Session 16 | |
-Intro to Time Series                            | Unit 4 | Session 17 | |
-FLEX: Instructor Choice                         | Unit 4 | Session 18 | |
-FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | |
-Final Project Presentations                     | Unit 4 | Session 20 | |
+| Lesson  | Unit Number | Session Number | Supplementary Reading |
+| --- | ---  | ---  | --- |
+| [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | |
+| [Your Development Environment][1-1B]            | Unit 1 | Session 2 | Use [Pro Git Book][1-1V] for reference  |
+| [Python Foundations][1-1C]                      | Unit 1 | Session 3 | [A Python Book:][1-1U] Parts 1.2 - 1.7  |
+| FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | |
+| --- | ---  | ---  | --- |
+| Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | |
+| Experiments & Hypothesis Testing                | Unit 2 | Session 6 | |
+| Data Visualization in Python                    | Unit 2 | Session 7 | |
+| Statistics in Python                            | Unit 2 | Session 8 | |
+| FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | |
+| --- | ---  | ---  | --- |
+| Linear Regression                               | Unit 3 | Session 10 | |
+| Train-Test Split & Bias-Variance                | Unit 3 | Session 11 | |
+| KNN / Classification                            | Unit 3 | Session 12 | |
+| Logistic Regression                             | Unit 3 | Session 13 | |
+| FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | |
+| --- | ---  | ---  | --- |
+| Working With Data: APIs                         | Unit 4 | Session 15 | |
+| Intro to Natural Language Processing            | Unit 4 | Session 16 | |
+| Intro to Time Series                            | Unit 4 | Session 17 | |
+| FLEX: Instructor Choice                         | Unit 4 | Session 18 | |
+| FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | |
+| Final Project Presentations                     | Unit 4 | Session 20 | |
 
 [1-1A]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%201
 [1-1B]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%202
