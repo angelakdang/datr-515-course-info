@@ -74,7 +74,7 @@ Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
 [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
-Python Foundations                              | Unit 1 | Session 3 |  
+[Python Foundations][1-1B]                      | Unit 1 | Session 3 |  
 FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | 
