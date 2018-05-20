@@ -215,12 +215,12 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 <a id='expectations'></a>
 ## Expectations
 
-* Ask all the stupid questions...seriously. It is the way forward.
-* Help other students. You can never lose knowledge from doing so.
-* Let me hear your voice. Don't be afraid to share your point of view or concern.
-* Read supplementary resources. Whatever you put into this class is what you will get out of it. Real data scientists are continually learning for deeper understanding and personal development. Be a real data scientist.
-* Keep up on Slack. Most updates will be there.
-* Have fun. Might as well!
+* **Ask all the stupid questions...seriously.** It is the way forward.
+* **Help other students.** You can never lose knowledge from doing so.
+* **Let me hear your voice.** Don't be afraid to share your point of view or concern.
+* **Read supplementary resources.** Whatever you put into this class is what you will get out of it. Real data scientists are continually learning for deeper understanding and personal development. Be a real data scientist.
+* **Keep up on Slack.** Most updates will be there.
+* **Have fun.** Might as well!
 
 ---
 
