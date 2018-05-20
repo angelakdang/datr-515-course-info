@@ -74,7 +74,7 @@ Lesson  | Unit Number | Session Number |
 --- | ---  | ---  |
 [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 |
 [Your Development Environment][1-1B]            | Unit 1 | Session 2 | 
-[Python Foundations][1-1B]                      | Unit 1 | Session 3 |  
+[Python Foundations][1-1C]                      | Unit 1 | Session 3 |  
 FLEX: Project Workshop + Presentations          | Unit 1 | Session 4 | 
 --- | ---  | ---  |
 Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | 
@@ -215,7 +215,12 @@ We'll use Slack for our class communications platform. Slack is a messaging plat
 <a id='expectations'></a>
 ## Expectations
 
-[Add specific local market attendance, student policy, and parking expectations here]
+* Ask all the stupid questions...seriously. It is the way forward.
+* Help other students. You can never lose knowledge from doing so.
+* Let me hear your voice. Don't be afraid to share your point of view or concern.
+* Read supplementary resources. Whatever you put into this class is what you will get out of it. Real data scientists are continually learning for deeper understanding and personal development. Be a real data scientist.
+* Keep up on Slack. Most updates will be there.
+* Have fun. Might as well!
 
 ---
 
