@@ -114,7 +114,6 @@ Here is the schedule we will be following for our part time data science course:
 [1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
 [1-1Q]: https://git.generalassemb.ly/data-part-time/flex_time-series
 
-[1-1T]: https://git.generalassemb.ly/data-part-time/unit-4_project
 ---
 
 <a id='projects'></a>
