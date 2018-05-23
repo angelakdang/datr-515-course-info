@@ -51,8 +51,6 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> Instructor Note: This material may be challenging to get through if students are new to programming. Expect students to struggle with for loops and functions — you likely will have to do these exercises as a code-along. If time is left over, there is practice on the Coffee Preferences data set. If not, students can use it for more practice at home.
-
 **Part 1 : Python Data Types** (90 min)
 - Why Python? (5 min)
 - Introduction to Data Types (10 min)
