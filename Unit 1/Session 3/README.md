@@ -13,10 +13,10 @@
 | Practice | Practice: Part 1: Data Types  | [here](./practice/types-lists-dictionaries-review.ipynb)|
 |  | Practice: Part 2: Functions  | [here](./practice/python-functions.ipynb)|
 |  | (*Intermediate, Bonus*) Practice: IMDB Intro Lab  | [here](./practice/python-movies-lab.ipynb)|
-| Solutions  | Sample Solutions for Blanked Out Lesson Demo | Data Types |
-|   | Sample Solutions: Part 1, Practice | Practice: Data Types |
-|   | Sample Solutions: Part 2, Practice | Practice: Functions |
-|   | Sample Solutions: Bonus Lab | IMDB Lab |
+| Solutions  | Sample Solutions for Blanked Out Lesson Demo | [Data Types](./solution-code/part_1_and_part_2_solutions.ipynb|
+|   | Sample Solutions: Part 1, Practice | [Practice: Data Types](./solution-code/types-lists-dictionaries-review-solutions.ipynb) |
+|   | Sample Solutions: Part 2, Practice | [Practice: Functions](./solution-code/python-functions-solutions.ipynb) |
+|   | Sample Solutions: Bonus Lab | [IMDB Lab](./solution-code/python-movies-lab-solutions.ipynb) |
 
 
 ---
