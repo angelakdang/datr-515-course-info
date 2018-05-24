@@ -75,7 +75,7 @@ Here is the schedule we will be following for our part time data science course:
 | [Welcome to Data Science][1-1A]                 | Unit 1 | Session 1 | |
 | [Your Development Environment][1-1B]            | Unit 1 | Session 2 | Use [Pro Git Book][1-1E] for reference  |
 | [Python Foundations][1-1C]                      | Unit 1 | Session 3 | [A Python Book:][1-1F] Parts 1.2 - 1.7  |
-| [FLEX: Project Workshop + Presentations][1-1G]  | Unit 1 | Session 4 | [OOP in Python][1-1H]|
+| [Project Workshop + Python Classes][1-1G]  | Unit 1 | Session 4 | [OOP in Python][1-1H]|
 | --- | ---  | ---  | --- |
 | Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | |
 | Experiments & Hypothesis Testing                | Unit 2 | Session 6 | |
