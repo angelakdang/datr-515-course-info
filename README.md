@@ -145,7 +145,7 @@ You will get structured guidance and designated time to work throughout the cour
 ### Project Breakdown
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
-2. Project 2: Exploratory Data Analysis
+2. [Project 2: Exploratory Data Analysis][2-1B]
 3. Project 3: Modeling Practice
 4. Project 4: Final Project
     - Part 1: Proposal + Dataset
@@ -154,7 +154,7 @@ You will get structured guidance and designated time to work throughout the cour
     - Part 4: Presentation
 
 [2-1A]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Project%201
-[2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
+[2-1B]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Project%202
 [2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
 [2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
 
