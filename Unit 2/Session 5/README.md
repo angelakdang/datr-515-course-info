@@ -9,19 +9,16 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Pandas for Exploratory Data Analysis (ipynb slides) | [Here](./exploratory-data-analysis.ipynb) |
-| Solution  | Completed template from lesson | [Here](./solution-code/exploratory-data-analysis-solution.ipynb) |
-| Practice | Prompts to practice EDA in Pandas | [Here](./practice/eda-data_cleaning_intro-lab-master/pandas-cleaning-apply.ipynb)|
-|  | Data for EDA Practice | [Here](./practice/eda-data_cleaning_intro-lab-master/datasets/rock.csv)|
-|  | Sample Solutions for EDA Practice | [Here](./practice/eda-data_cleaning_intro-lab-master/solution-code/pandas-cleaning-apply-solution.ipynb)|
+| Solution  | Completed template from lesson | Available after class |
+| Practice | Prompts to practice EDA in Pandas | [Here](./practice/pandas-cleaning-apply.ipynb)|
+|  | Data for EDA Practice | [Here](./practice/datasets/rock.csv)|
+|  | Sample Solutions for EDA Practice | Available after class |
 | Datasets | Country/continent/servings of alcohol | [Here](./data/drinks.csv) |
 |          | UFO sighting records | [Here](./data/ufo.csv) |
 |          | Movie & Title Info from IMDB | [Here](./data/movies.tbl) |
 |          | User Info from IMDB | [Here](./data/user.tbl) |
 |          | Movie & Title Info from IMDB | [Here](./data/movies.tbl) |
 <!--| Source Materials | Original files used to create this lesson | -- |-->
-
-
-> This lesson purposefully uses a large number of datasets. This allows students to practice opening different types of data files. So, it would be useful to emphasize manually looking at the files to identify the separator and header. Having many datasets available allows us to explore a variety of themes throughout the lesson that might not be present in one dataset alone.
 
 *Note: Datasets have 3 types. ".csv" files are separated by commas, ".tsv" by tabs, and ".tbl" by "|" character*
 
@@ -48,9 +45,6 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> Instructor Note: Start with the lesson Jupyter slide deck. Next, walk the students through the lab. Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
-
-> TOTAL: 170 mins
 - What is Pandas (20 mins)
 - Reading Files, Selecting Columns, and Summarizing (15 mins)
     - EXERCISE ONE (15 mins)
