@@ -77,7 +77,7 @@ Here is the schedule we will be following for our part time data science course:
 | [Python Foundations][1-1C]                      | Unit 1 | Session 3 | [A Python Book:][1-1F] Parts 1.2 - 1.7  |
 | [Project Workshop + Python Classes][1-1G]  | Unit 1 | Session 4 | [OOP in Python][1-1H]|
 | --- | ---  | ---  | --- |
-| Exploratory Data Analysis in Pandas             | Unit 2 | Session 5 | |
+| [Exploratory Data Analysis in Pandas][1-1I]     | Unit 2 | Session 5 | Check out [Chris Albon's website][1-1J] and the [Pandas documentation][1-1K] |
 | Experiments & Hypothesis Testing                | Unit 2 | Session 6 | |
 | Data Visualization in Python                    | Unit 2 | Session 7 | |
 | Statistics in Python                            | Unit 2 | Session 8 | |
@@ -105,9 +105,9 @@ Here is the schedule we will be following for our part time data science course:
 [1-1G]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Session%204
 [1-1H]: http://python-textbok.readthedocs.io/en/1.0/Classes.html
 
-[1-1J]: https://git.generalassemb.ly/data-part-time/linear-regression
-[1-1K]: https://git.generalassemb.ly/data-part-time/train-test-split-and-bias-variance
-[1-1L]: https://git.generalassemb.ly/data-part-time/knn-classification
+[1-1I]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%205
+[1-1J]: https://chrisalbon.com/
+[1-1K]: http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
 [1-1M]: https://git.generalassemb.ly/data-part-time/logistic-regression
 
 [1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
@@ -145,7 +145,7 @@ You will get structured guidance and designated time to work throughout the cour
 ### Project Breakdown
 
 1. [Project 1: Python Technical Code Challenges][2-1A]
-2. Project 2: Exploratory Data Analysis
+2. [Project 2: Exploratory Data Analysis][2-1B]
 3. Project 3: Modeling Practice
 4. Project 4: Final Project
     - Part 1: Proposal + Dataset
@@ -154,7 +154,7 @@ You will get structured guidance and designated time to work throughout the cour
     - Part 4: Presentation
 
 [2-1A]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Project%201
-[2-1B]:  https://git.generalassemb.ly/data-part-time/unit-2_project
+[2-1B]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Project%202
 [2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
 [2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
 
