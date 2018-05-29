@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Starter Code | Required questions and Bonus prompts | [Here](./Project-1-CC.ipynb) |
-| Solution Code | Sample solutions for all required sections | Here |
+| Solution Code | Sample solutions for all required sections | [Here](./project-1_solutions.ipynb) |
 
 
 
