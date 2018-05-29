@@ -78,7 +78,7 @@ Here is the schedule we will be following for our part time data science course:
 | [Project Workshop + Python Classes][1-1G]  | Unit 1 | Session 4 | [OOP in Python][1-1H]|
 | --- | ---  | ---  | --- |
 | [Exploratory Data Analysis in Pandas][1-1I]     | Unit 2 | Session 5 | Check out [Chris Albon's website][1-1J] and the [Pandas documentation][1-1K] |
-| Experiments & Hypothesis Testing                | Unit 2 | Session 6 | |
+| [Experiments & Hypothesis Testing][1-1L]        | Unit 2 | Session 6 | [Begining Statistics:][1-1M] Chapters 1-3, 8 |
 | Data Visualization in Python                    | Unit 2 | Session 7 | |
 | Statistics in Python                            | Unit 2 | Session 8 | |
 | FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | |
@@ -108,9 +108,9 @@ Here is the schedule we will be following for our part time data science course:
 [1-1I]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%205
 [1-1J]: https://chrisalbon.com/
 [1-1K]: http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
-[1-1M]: https://git.generalassemb.ly/data-part-time/logistic-regression
+[1-1L]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%206
 
-[1-1O]: https://git.generalassemb.ly/data-part-time/getting-data-APIs
+[1-1M]: https://2012books.lardbucket.org/books/beginning-statistics/
 [1-1P]: https://git.generalassemb.ly/data-part-time/natural-language-processing
 [1-1Q]: https://git.generalassemb.ly/data-part-time/flex_time-series
 
