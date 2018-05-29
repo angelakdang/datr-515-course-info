@@ -9,8 +9,8 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Experiments and Hypothesis Testing Lesson | [Here](./experiments-hypothesis-tests.ipynb)|
-| Solutions | Sample Solutions for Lesson Sections | [Here](./solution-code/experiments-hypothesis-tests_solutions.ipynb)|
-| Practice | Individual Practice Activity (includes data and sample solutions) | [Here](./practice/eda-music_data_blogging-lab-master/)|
+| Solutions | Sample Solutions for Lesson Sections | Available after class |
+| Practice | Individual Practice Activity (includes data and sample solutions) | [Here](./practice/eda-music_data_blogging-lab-master/eda-with-billboard-data-lab.ipynb)|
 |  | Group Practice Activity (includes data) | [Here](./practice/eda-telecomm_group_project-lab-master/telecomm-eda-group-lab.ipynb)|
 | Extra Materials | French Fry Study | [Here](./assets/french-fry.pdf) |
 
@@ -40,8 +40,6 @@ Before this lesson(s), students should already be able to:
 ----
 
 ## Lesson Outline
-
-> Instructor Note: You will likely need to spend time on explaining covariance and correlation, perhaps doing examples on the board to make the equations as clear as possible. Make sure time is left for the scenario at the end where students have time to practice the lesson material.
 
 > TOTAL (170 min)
 - Data Source (10 min)
