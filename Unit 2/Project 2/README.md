@@ -16,7 +16,6 @@
 | Option 2: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
 | Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | Available after Unit 2 |
 
-> Note: Instructors should withold providing project solutions until students have submitted their drafts. 
 
 --
 
