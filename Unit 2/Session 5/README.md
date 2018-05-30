@@ -9,10 +9,10 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Pandas for Exploratory Data Analysis (ipynb slides) | [Here](./exploratory-data-analysis.ipynb) |
-| Solution  | Completed template from lesson | Available after class |
+| Solution  | Completed template from lesson | [Here](./exploratory-data-analysis-solution.ipynb) |
 | Practice | Prompts to practice EDA in Pandas | [Here](./practice/pandas-cleaning-apply.ipynb)|
 |  | Data for EDA Practice | [Here](./practice/datasets/rock.csv)|
-|  | Sample Solutions for EDA Practice | Available after class |
+|  | Sample Solutions for EDA Practice | [Here](./practice/pandas-cleaning-apply-solution.ipynb) |
 | Datasets | Country/continent/servings of alcohol | [Here](./data/drinks.csv) |
 |          | UFO sighting records | [Here](./data/ufo.csv) |
 |          | Movie & Title Info from IMDB | [Here](./data/movies.tbl) |
