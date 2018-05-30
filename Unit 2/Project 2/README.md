@@ -10,11 +10,11 @@
 | --- | --- | --- |
 | Option 1: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
 | Option 1: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
-| Option 1: IMDB Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/imdb_solutions.ipynb) |
+| Option 1: IMDB Solution Code | Sample solutions for project questions (Instructors Only) | Available after Unit 2 |
 | --- | --- | --- |
 | Option 2: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
 | Option 2: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
-| Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/chipotle_solutions.ipynb) |
+| Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | Available after Unit 2 |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. 
 
