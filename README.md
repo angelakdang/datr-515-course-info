@@ -135,7 +135,7 @@ For those of you who want to go above and beyond, we’ve also included stretch 
 
 ### Final Project
 
-You'll also complete a final project, asking you to apply your skills to a real-world or business problem of your choice.
+You'll also complete a [final project][2-1D], asking you to apply your skills to a real-world or business problem of your choice.
 
 The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your life, industry, or organization. You’ll create a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
@@ -153,7 +153,7 @@ You will get structured guidance and designated time to work throughout the cour
 1. [Project 1: Python Technical Code Challenges][2-1A]
 2. [Project 2: Exploratory Data Analysis][2-1B]
 3. Project 3: Modeling Practice
-4. Project 4: Final Project
+4. [Project 4: Final Project][2-1D]
     - Part 1: Proposal + Dataset
     - Part 2: Initial EDA Brief
     - Part 3: Technical Report
@@ -162,7 +162,7 @@ You will get structured guidance and designated time to work throughout the cour
 [2-1A]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%201/Project%201
 [2-1B]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Project%202
 [2-1C]:  https://git.generalassemb.ly/data-part-time/unit-3_project
-[2-1D]:  https://git.generalassemb.ly/data-part-time/unit-4_project
+[2-1D]:  https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Project%204
 
 ---
 
