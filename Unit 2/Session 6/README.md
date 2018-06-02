@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Experiments and Hypothesis Testing Lesson | [Here](./experiments-hypothesis-tests.ipynb)|
-| Solutions | Sample Solutions for Lesson Sections | [Here](./experiments-hypothesis-tests_solutions.ipynb |
+| Solutions | Sample Solutions for Lesson Sections | [Here](./experiments-hypothesis-tests_solutions.ipynb) |
 | Practice | Individual Practice Activity (includes data and sample solutions) | [Here](./practice/eda-music_data_blogging-lab-master/eda-with-billboard-data-lab.ipynb)|
 |  | Group Practice Activity (includes data) | [Here](./practice/eda-telecomm_group_project-lab-master/telecomm-eda-group-lab.ipynb)|
 | Extra Materials | French Fry Study | [Here](./assets/french-fry.pdf) |
