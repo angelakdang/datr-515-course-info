@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Summary Statistics Codealong in Python | [Here](./Statistics-Review-part-1.ipynb) |
-| Solution  | Solution code for Lesson Prompts | [Here](./solution-code/Statistics-Review-part-1-solution.ipynb) |
+| Solution  | Solution code for Lesson Prompts | Available after class |
 | Datasets | Titanic Survival (CSV): Passenger/survival info. | [Here](./data/titanic.csv) |
 | Practice | Descriptive Stats with NumPy (includes data and solutions) | [Here](./practice/python-descriptive_statistics_numpy-lab-master/) |
 |  | Summary Statistics on Sample Data | [Here](./practice/statistics-describing_data-lab-master/) |
