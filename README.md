@@ -82,7 +82,7 @@ Here is the schedule we will be following for our part time data science course:
 | [Data Visualization in Python][1-1N]            | Unit 2 | Session 7 | [An Introduction to Visualizing Data][1-10]|
 ||||[Seeing Data: Making Sense of Data Visualizations][1-1P]|
 ||||[Sunlight Foundation Data Visualization Style Guidelines][1-1Q]|
-| Statistics in Python                            | Unit 2 | Session 8 | |
+| [Statistics in Python][1-1R]                    | Unit 2 | Session 8 | |
 | FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | |
 | --- | ---  | ---  | --- |
 | Linear Regression                               | Unit 3 | Session 10 | |
@@ -118,7 +118,7 @@ Here is the schedule we will be following for our part time data science course:
 [1-1P]: http://seeingdata.org/original-seeing-data-research/
 
 [1-1Q]: https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
-[1-1R]: https://git.generalassemb.ly/data-part-time/natural-language-processing
+[1-1R]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%208
 
 ---
 
