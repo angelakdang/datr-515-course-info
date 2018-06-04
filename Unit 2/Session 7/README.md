@@ -91,4 +91,4 @@ For more information on this topic, check out the following resources:
 - [SAS Data Viz Guide](http://www.sas.com/en_us/insights/big-data/data-visualization.html)
 - [Professor Shafer's Guide to Viz Attributes](http://mediashift.org/2016/02/checklist-does-your-data-visualization-say-what-you-think-it-says/)
 - [Tableau's Guide to Data Viz](https://drive.google.com/file/d/0Bx2SHQGVqWasT1l4NWtLclJJcWM/view)
-- Documentation for [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Pandas Plotting](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html)
+- Documentation for [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/) and [Pandas Plotting](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html)
