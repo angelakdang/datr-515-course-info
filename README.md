@@ -85,7 +85,7 @@ Here is the schedule we will be following for our part time data science course:
 | [Statistics in Python][1-1R]                    | Unit 2 | Session 8 | |
 | FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | |
 | --- | ---  | ---  | --- |
-| [Linear Regression][1-1S]                       | Unit 3 | Session 10 | |
+| [Linear Regression][1-1S]                       | Unit 3 | Session 10 | [Beginning Statistics:][1-1M] Chapters 3 |
 | Train-Test Split & Bias-Variance                | Unit 3 | Session 11 | |
 | KNN / Classification                            | Unit 3 | Session 12 | |
 | Logistic Regression                             | Unit 3 | Session 13 | |
