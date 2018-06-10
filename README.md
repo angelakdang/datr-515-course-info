@@ -119,6 +119,7 @@ Here is the schedule we will be following for our part time data science course:
 
 [1-1Q]: https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
 [1-1R]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%208
+[1-1S]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2010
 
 ---
 
