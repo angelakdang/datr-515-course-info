@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Starter Code | Project Description | [Here](./starter-code.ipynb) |
-| Solution Code | Sample solutions for project questions | [Here](./project-3_solutions.ipynb) |
+| Solution Code | Sample solutions for project questions | Available after Unit 2 |
 | Dataset | Boston Housing Dataset (Provided as back-up to embedded data)| [Here](./boston_data.csv) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
