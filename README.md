@@ -121,7 +121,7 @@ Here is the schedule we will be following for our part time data science course:
 [1-1R]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%208
 [1-1S]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2010
 
-[1-1T]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2011
+[1-1T]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2011%20
 [1-1U]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2012
 [1-1V]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2013
 
