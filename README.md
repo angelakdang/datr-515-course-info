@@ -85,10 +85,10 @@ Here is the schedule we will be following for our part time data science course:
 | [Statistics in Python][1-1R]                    | Unit 2 | Session 8 | |
 | FLEX: Project Workshop + Presentations          | Unit 2 | Session 9 | |
 | --- | ---  | ---  | --- |
-| [Linear Regression][1-1S]                       | Unit 3 | Session 10 | [Beginning Statistics:][1-1M] Chapters 3 |
-| Train-Test Split & Bias-Variance                | Unit 3 | Session 11 | |
-| KNN / Classification                            | Unit 3 | Session 12 | |
-| Logistic Regression                             | Unit 3 | Session 13 | |
+| [Linear Regression][1-1S]                       | Unit 3 | Session 10 | [Beginning Statistics:][1-1M] Chapters 3, 6.1, 6.2 and 7.1 |
+| [Train-Test Split & Bias-Variance][1-1T]        | Unit 3 | Session 11 | [Beginning Statistics:][1-1M] Chapters 2.2.2 and 5 |
+| [KNN / Classification][1-1U]                    | Unit 3 | Session 12 | [Beginning Statistics:][1-1M] Chapter 4.6.5 |
+| [Logistic Regression][1-1V]                     | Unit 3 | Session 13 | [Beginning Statistics:][1-1M] Chapter 4.3 |
 | FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | |
 | --- | ---  | ---  | --- |
 | Working With Data: APIs                         | Unit 4 | Session 15 | |
@@ -120,6 +120,12 @@ Here is the schedule we will be following for our part time data science course:
 [1-1Q]: https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf
 [1-1R]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%202/Session%208
 [1-1S]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2010
+
+[1-1T]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2011
+[1-1U]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2012
+[1-1V]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2013
+
+[1-1W]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2010
 
 ---
 
