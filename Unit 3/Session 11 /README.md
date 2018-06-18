@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Bias and Variance Lesson | [Here](./bias-and-variance.ipynb) |
-| Solution  | Solution code for lesson prompts | [Here](./solution-code/bias-and-variance-solution.ipynb) |
+| Solution  | Solution code for lesson prompts | Available after class |
 | Practice  | Train Test Split and Cross Validation Lab (includes solutions) | [Here](./practice/)
 | Datasets | Average weight of the body and the brain for 62 mammal species | [Here](./data/mammals.txt) |
 
