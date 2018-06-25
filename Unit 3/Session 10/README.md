@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Linear Regression lesson | [Here](./linear_regression.ipynb) |
-| Solution  | Solution code for Lesson Prompts | Available after class |
+| Solution  | Solution code for Lesson Prompts | [Here](./solution-code) |
 | Slides | Sample slides for this lesson  | [Here](./slides/) |
 | Practice | Kobe Shot Regularization | [Here](./practice) |
 |          | Simple Linear Regression | [Here](./practice) |
