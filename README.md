@@ -89,11 +89,11 @@ Here is the schedule we will be following for our part time data science course:
 | [Train-Test Split & Bias-Variance][1-1T]        | Unit 3 | Session 11 | [Beginning Statistics:][1-1M] Chapters 2.2.2 and 5 |
 | [KNN / Classification][1-1U]                    | Unit 3 | Session 12 | [Beginning Statistics:][1-1M] Chapter 4.6.5 |
 | [Logistic Regression][1-1V]                     | Unit 3 | Session 13 | [Beginning Statistics:][1-1M] Chapter 4.3 |
-| FLEX: Project Workshop + Presentations          | Unit 3 | Session 14 | |
+| [FLEX: Project Workshop + Decision Trees][1-1W] | Unit 3 | Session 14 | |
 | --- | ---  | ---  | --- |
-| Working With Data: APIs                         | Unit 4 | Session 15 | |
-| Intro to Natural Language Processing            | Unit 4 | Session 16 | |
-| Intro to Time Series                            | Unit 4 | Session 17 | |
+| [Working With Data: APIs][1-1X]                 | Unit 4 | Session 15 | |
+| [Intro to Natural Language Processing][1-1Y]    | Unit 4 | Session 16 | |
+| [Intro to Time Series][1-1Z]                    | Unit 4 | Session 17 | |
 | FLEX: Instructor Choice                         | Unit 4 | Session 18 | |
 | FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | |
 | Final Project Presentations                     | Unit 4 | Session 20 | |
@@ -125,7 +125,10 @@ Here is the schedule we will be following for our part time data science course:
 [1-1U]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2012
 [1-1V]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2013
 
-[1-1W]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2010
+[1-1W]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%203/Session%2014
+[1-1X]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2015
+[1-1Y]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2016
+[1-1Z]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2017
 
 ---
 
