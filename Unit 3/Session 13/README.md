@@ -9,7 +9,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Logistic Regression | [Here](./logistic-regression-starter.ipynb) |
-| Solution  | Solution code for lesson prompts | Available after class |
+| Solution  | Solution code for lesson prompts | [Here](./solution-code/logistic-regression-solution.ipynb) |
 | Practice | Two activities: Bank Marketing and Multi-LogReg using Iris | [Here](./practice/) |
 | Data | College Admissions Data, Titanic Survivors, Glass, and practice data | [Here](./data/) |
 | Slides | Sample Slides for Log Reg, Confusion Matrix, and ROC | [Here](./slides/) |
