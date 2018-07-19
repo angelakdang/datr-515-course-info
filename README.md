@@ -94,7 +94,7 @@ Here is the schedule we will be following for our part time data science course:
 | [Working With Data: APIs][1-1X]                 | Unit 4 | Session 15 | |
 | [Intro to Natural Language Processing][1-1Y]    | Unit 4 | Session 16 | |
 | [Intro to Time Series][1-1Z]                    | Unit 4 | Session 17 | |
-| FLEX: Instructor Choice                         | Unit 4 | Session 18 | |
+| [Clustering][1-1AA]                             | Unit 4 | Session 18 | |
 | FLEX: Review + Project Workshop                 | Unit 4 | Session 19 | |
 | Final Project Presentations                     | Unit 4 | Session 20 | |
 
@@ -129,6 +129,9 @@ Here is the schedule we will be following for our part time data science course:
 [1-1X]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2015
 [1-1Y]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2016
 [1-1Z]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2017
+
+
+[1-1AA]: https://git.generalassemb.ly/dlasisi/datr-515-course-info/tree/master/Unit%204/Session%2018
 
 ---
 
