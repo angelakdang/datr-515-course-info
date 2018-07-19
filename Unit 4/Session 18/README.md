@@ -45,8 +45,6 @@ Before this lesson(s), students should already be able to:
 ## Lesson Outline
 > TOTAL (170 min)
 
-> **Rapid Schedule:** For a half-lesson, consider only covering part one (k-means). If additional time is needed, the k-means metric explanation could be skipped.
-
 
 ### OUTLINE: PART ONE (K-MEANS)
 > Total: 80 min 
